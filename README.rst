@@ -385,10 +385,10 @@ installing under virtualenv)::
 FreeBSD
 -------
 
-Synapse can be installed via FreeBSD Ports or Packages contributed by Brendan Molloy from:
+Synapse can be installed via FreeBSD Ports or Packages contributed by Sascha Biberhofer from:
 
  - Ports: ``cd /usr/ports/net-im/py-matrix-synapse && make install clean``
- - Packages: ``pkg install py27-matrix-synapse``
+ - Packages: ``pkg install py36-matrix-synapse``
 
 
 OpenBSD
